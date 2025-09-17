@@ -1,5 +1,7 @@
 # 프로젝트 준비
 
+!()[https://image.dongascience.com/Photo/2022/05/529a7b045a4cd4e61475b74e93323d40.png]
+
 ## 1. 리포지토리 복제
 
 **소스 코드 다운로드**
